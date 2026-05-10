@@ -169,7 +169,10 @@ hr {
 		justify-content: space-between;
 		align-items: center;
 	}
-
+	main section.container{
+		display: flex;
+		flex-direction: row;
+	}
 	.main-article {
 		width: 60%;
 		border-radius: 0.6rem;
